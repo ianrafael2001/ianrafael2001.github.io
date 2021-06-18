@@ -7,7 +7,7 @@ const searchResult = $('#searchResult');
 
 function cardMovie(movie) {
     return `<div class="col-lg-3 col-md-4 col-sm-6">
-                <div class="card card-film mb-3">
+                <div class="card card-film mb-3 drop-shadown">
                     <img src="${BASE_URL_IMAGES}/${IMAGE_SIZE_W300}/${movie.backdrop_path}" class="card-img-top">
                     <div class="card-body" style="height: 330px">
                         <h5 class="card-title">${movie.title}</h5>

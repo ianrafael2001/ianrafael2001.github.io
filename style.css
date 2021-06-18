@@ -2,16 +2,18 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     color:inherit;
-    background-color: blanchedalmond;
+    background-color: rgb(255, 255, 255);
 }
     
 .logo {
     height: 40x;
     width: 40px;
 }
-
+.drop-shadown{
+  box-shadow: 0 0 1em #6a6a6a;
+}
 h2{
-    color:  rgb(219, 168, 29);
+    color:  rgb(219, 29, 29);
 }
 h6{
     color: black;
@@ -32,7 +34,7 @@ h6{
     
 }
 .cor{
-    background:rgb(219, 168, 29);
+    background:rgb(219, 29, 29);
 }
 
 .navbar-light .navbar-brand{
@@ -47,13 +49,13 @@ font-size: 0.7cm;
 }
 /* cor do botões */
 .btn-primary {
-    background-color:rgb(216, 104, 13);
+    background-color:rgb(216, 13, 13);
     border-color:  #FFF0F5;
 
 }
 
 .btn-primary:hover {
-    background-color:rgb(212, 149, 89);
+    background-color:rgb(212, 89, 89);
     border-color:  #FFF0F5;
 }
 
@@ -63,7 +65,7 @@ font-size: 0.7cm;
 }
 
 .footer {
-    background-color:rgb(219, 168, 29);
+    background-color:rgb(219, 29, 29);
 }
 .footer a{
     color: rgb(7, 7, 7);
