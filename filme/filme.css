@@ -1,0 +1,12 @@
+.card-img-overlay {
+    background-colo: rgb(39, 118, 142);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+@media (max-width: 767.98px) {
+    .card-img-overlay {
+        position: relative
+    }
+}
