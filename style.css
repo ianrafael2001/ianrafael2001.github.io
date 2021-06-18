@@ -9,18 +9,23 @@ body{
     height: 40x;
     width: 40px;
 }
+
 .drop-shadown{
-  box-shadow: 0 0 1em #6a6a6a;
+  box-shadow: 0 0 1em #00000067;
 }
+
 h2{
     color:  rgb(219, 29, 29);
 }
+
 h6{
     color: black;
 }
+
 .card-film {
     min-height: 450px;
 }
+
 .text-muted {
     color: black!important;
 }
